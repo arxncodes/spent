@@ -1,0 +1,41 @@
+#.gitignore for Spent project
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Editor dirs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python test / coverage
+.pytest_cache/
+htmlcov/
+.coverage
+
+# SQLite DB (optional keep local db out of git if you prefer backups only)
+spent.db
+
+# logs
+*.log
+
+# Assets built at runtime
+assets/*.ico

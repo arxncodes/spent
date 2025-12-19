@@ -1,0 +1,8 @@
+PySide6
+matplotlib
+pandas
+python-dateutil
+SQLAlchemy
+python-dotenv
+pyqtgraph
+pytest
