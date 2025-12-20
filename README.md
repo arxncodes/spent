@@ -84,14 +84,11 @@ Place screenshots in the `assets/` directory and reference them here. Example im
 - `assets/screenshot_transactions.png` — Transactions list with filter bar and edit/delete actions.
 - `assets/screenshot_reports.png` — Reports page with charts.
 
-You can add images to this section like so:
-
 ![Dashboard](assets/screenshot_dashboard.png)
 
 ---
 
 ## App logo
-The app will display a logo in the header and use it as the window icon if a PNG file exists at `assets/logo.png` (or `logo.png` in the project root). To add your logo, copy a square PNG into `assets/logo.png` and restart the app.
 ![logo](assets/logo.png)
 ---
 
