@@ -19,7 +19,6 @@ Core features
 
 Extra features
 - Transaction edit & delete actions in the list.
-- Seed/demo data script for quick setup.
 - Small, embeddable charts powered by Matplotlib or PyQtGraph.
 
 ---
@@ -109,7 +108,6 @@ Project structure highlights
 - `app.py` — app entrypoint
 - `db/` — SQLAlchemy models and repository functions
 - `gui/` — PySide6 UI code (pages, forms, dialogs)
-- `scripts/seed_demo.py` — quick demo data seeder
 - `tests/` — minimal test coverage for repository functions
 
 ---
