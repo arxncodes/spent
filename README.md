@@ -77,12 +77,6 @@ This will create example transactions, a budget, and a recurring rule so you can
 ---
 
 ## Screenshots
-Place screenshots in the `assets/` directory and reference them here. Example images (not included):
-
-- `assets/screenshot_dashboard.png` — Dashboard with totals and top categories pie chart.
-- `assets/screenshot_transactions.png` — Transactions list with filter bar and edit/delete actions.
-- `assets/screenshot_reports.png` — Reports page with charts.
-
 ![Dashboard](assets/screenshot_dashboard.png)
 
 ---
